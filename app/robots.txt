@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+Allow: /
+sitemap: https://bocilviralindo.pages.dev/sitemap.xml
